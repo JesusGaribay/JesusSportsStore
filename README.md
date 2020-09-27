@@ -9,3 +9,4 @@ dotnet new xunit -o ECommerceProject.Tests --framework netcoreapp3.1
 dotnet sln ECommerceProject add ECommerceProject.Tests
 dotnet add ECommerceProject.Tests reference ECommerceProject
 # Chapter 7 screenshot
+![JesusSportsStore](https://user-images.githubusercontent.com/68295669/94358113-7f1fad00-0053-11eb-9f8d-817365641cac.PNG)
