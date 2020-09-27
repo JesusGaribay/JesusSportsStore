@@ -8,3 +8,4 @@ dotnet sln ECommerceProject add ECommerceProject
 dotnet new xunit -o ECommerceProject.Tests --framework netcoreapp3.1
 dotnet sln ECommerceProject add ECommerceProject.Tests
 dotnet add ECommerceProject.Tests reference ECommerceProject
+# Chapter 7 screenshot
